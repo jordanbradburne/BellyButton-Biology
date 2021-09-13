@@ -26,6 +26,3 @@ This displays the following when an individual’s ID is selected from the dropd
 This displays the weekly washing frequency's value and the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
 <img width="403" alt="Screen Shot 2021-09-12 at 11 31 31 PM" src="https://user-images.githubusercontent.com/85847344/133035454-3bb496d5-ab91-4e39-a9f5-2c9671336b4c.png">
-
-
-## Full Web-Page:
