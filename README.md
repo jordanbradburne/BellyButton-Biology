@@ -4,12 +4,13 @@
 There is a completed panel for demographic information and now it needs to be able to visualize the bacterial data for each volunteer. Volunteers should be able to identify the top 10 bacterial species in their belly buttons.
 
 ## Deliverables:
-Deliverable 1: Create a Horizontal Bar Chart
-Deliverable 2: Create a Bubble Chart
-Deliverable 3: Create a Gauge Chart
+1. Deliverable 1: Create a Horizontal Bar Chart
+2. Deliverable 2: Create a Bubble Chart
+3. Deliverable 3: Create a Gauge Chart
 
 ## Create a Horizontal Bar Chart:
 This displays the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.
+
 <img width="372" alt="Screen Shot 2021-09-12 at 11 31 27 PM" src="https://user-images.githubusercontent.com/85847344/133035274-6cc08480-ef27-431b-b805-5be770cf41cf.png">
 
 ## Create a Bubble Chart:
